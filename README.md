@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gautham Nair
 - 👀 I create programs in Python
 - 🌱 I’m a Student
-- 👍 Co-Founder of Zanvok Corporation 
+- 👍 Co-Founder of [Zanvok Corporation](https://github.com/zanvokcorporation/)
 - 📫 [Mail me Outlook](gautham.nair.2005@outlook.com)
 - 📫 [Mail me Gmail](gautham.nair.2005@gmail.com)
 
