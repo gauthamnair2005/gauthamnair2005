@@ -2,7 +2,9 @@
 - 👀 I create programs in Python
 - 🌱 I’m a Student
 - 👍 Co-Founder of Zanvok Corporation 
-- 📫 gautham.nair.2005@outlook.com
+- 📫 (Mail me Outlook)[gautham.nair.2005@outlook.com]
+- 📫 (Mail me Gmail)[gautham.nair.2005@gmail.com]
+- 
 
 <!---
 gauthamnair2005/gauthamnair2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
