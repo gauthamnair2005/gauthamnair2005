@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Gautham Nair
-- 👀 I create programs in [Python](https://www.python.org/)
+# 👋 Hi, I’m Gautham Nair
+- 👀 I like programming in [Python](https://www.python.org/)
 - 🌱 I’m a Student
 - 📫 [Mail me Outlook](gautham.nair.2005@outlook.com)
 - 📫 [Mail me Gmail](gautham.nair.2005@gmail.com)
