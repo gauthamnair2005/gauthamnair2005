@@ -4,10 +4,62 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gautham Nair - Personal Website</title>
-    <link rel="stylesheet" href="styles.css">
     <style>
+        /* Reset some default margin/padding */
+        body, h1, h2, p {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            overflow-x: hidden; /* Hide horizontal scrollbar */
+        }
+
+        header {
+            background-color: #3498db;
+            color: #ffffff;
+            text-align: center;
+            padding: 2rem 0;
+            animation: fadeInUp 1s ease-in-out;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+            background-color: #ffffff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            margin-top: -1rem;
+            animation: fadeInUp 1s ease-in-out;
+        }
+
+        section {
+            animation: fadeInUp 1s ease-in-out;
+            margin-bottom: 2rem;
+        }
+
+        h1 {
+            color: #333333;
+        }
+
+        p {
+            color: #666666;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
         /* Keyframe animations */
-        @keyframes fadeIn {
+        @keyframes fadeInUp {
             from {
                 opacity: 0;
                 transform: translateY(20px);
@@ -18,9 +70,19 @@
             }
         }
 
-        /* Applying animations to sections */
-        section {
-            animation: fadeIn 1s ease-in-out;
+        /* Continuous rotation animation */
+        @keyframes rotate {
+            0% {
+                transform: rotate(0);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Apply rotation animation to specific element */
+        #continuous-animation {
+            animation: rotate 10s linear infinite;
         }
     </style>
 </head>
@@ -44,5 +106,12 @@
             <p>If you'd like to get in touch, feel free to email me at <a href="mailto:your@email.com">your@email.com</a>.</p>
         </section>
     </div>
+    <script>
+        // Continuous animation using JavaScript
+        window.onload = function() {
+            const continuousAnimation = document.getElementById('continuous-animation');
+            continuousAnimation.style.animation = 'rotate 10s linear infinite';
+        };
+    </script>
 </body>
 </html>
