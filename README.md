@@ -5,10 +5,6 @@
 - 📫 [Mail me Outlook](mailto:gautham.nair.2005@outlook.com)
 - 📫 [Mail me Gmail](mailto:gautham.nair.2005@gmail.com)
 
-## GitHub Stats
-
-![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthamnair2005&show_icons=true&theme=radical)
-
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamnair2005&layout=compact&theme=radical)
