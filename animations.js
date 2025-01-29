@@ -1,4 +1,3 @@
-// Using simple JavaScript for animations
 const sections = document.querySelectorAll("section");
 
 window.addEventListener("scroll", () => {
