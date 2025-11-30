@@ -39,7 +39,7 @@ I'm a student passionate about coding and technology. I love exploring new tools
 
 ## 📊 GitHub Stats
 
-[![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauthamnair2005&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauthamnair2005&show_icons=true&theme=radical)](https://github.com/gauthamnair2005)
 
 <br />
 
