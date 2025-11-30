@@ -39,11 +39,11 @@ I'm a student passionate about coding and technology. I love exploring new tools
 
 ## 📊 GitHub Stats
 
-[![Gautham's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauthamnair2005&show_icons=true&theme=radical)](https://github.com/gauthamnair2005)
+![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthamnair2005&show_icons=true&theme=radical)
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamnair2005&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamnair2005&layout=compact&theme=radical)
 
 <br />
 
