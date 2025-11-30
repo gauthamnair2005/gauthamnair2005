@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gautham+Nair;Python+Developer;Student;Lifelong+Learner" alt="Typing SVG" />
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=gauthamnair2005&label=Profile%20Views&color=0be712&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=gauthamnair2005&label=Profile%20Views&color=0be712&style=flat)
 
 </div>
 
