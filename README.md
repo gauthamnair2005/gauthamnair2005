@@ -24,6 +24,16 @@ I'm a student passionate about coding and technology. I love exploring new tools
 
 <div align="center" markdown="1">
 
+## 🌐 Portfolio
+
+[**🏠 Visit My Portfolio Website**](https://gauthamnair2005.github.io/gauthamnair2005/)
+<br />
+[**📂 View My Projects**](https://gauthamnair2005.github.io/gauthamnair2005/projects)
+
+</div>
+
+<div align="center" markdown="1">
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
