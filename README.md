@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Hi, I’m Gautham Nair
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gautham+Nair;Python+Developer;Student;Lifelong+Learner" alt="Typing SVG" />
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=gauthamnair2005&label=Profile%20Views&color=0be712&icon=5&pretty=true)](https://visitcount.itsvg.in)
@@ -28,10 +26,10 @@ I'm a student passionate about coding and technology. I love exploring new tools
 
 ## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
@@ -57,11 +55,7 @@ I'm a student passionate about coding and technology. I love exploring new tools
 
 ## 📫 Connect with Me
 
-<a href="mailto:gautham.nair.2005@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-</a>
-<a href="mailto:gautham.nair.2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gautham.nair.2005@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gautham.nair.2005@gmail.com)
 
 </div>
