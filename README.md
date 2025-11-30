@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Gautham+Nair;Python+Developer;Student;Lifelong+Learner" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 ---
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🚀 About Me
 
@@ -22,7 +22,7 @@ I'm a student passionate about coding and technology. I love exploring new tools
 
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 🛠️ Tech Stack
 
@@ -35,7 +35,7 @@ I'm a student passionate about coding and technology. I love exploring new tools
 
 <br />
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 📊 GitHub Stats
 
@@ -51,7 +51,7 @@ I'm a student passionate about coding and technology. I love exploring new tools
 
 </div>
 
-<div align="center">
+<div align="center" markdown="1">
 
 ## 📫 Connect with Me
 
