@@ -18,7 +18,7 @@ I'm a student passionate about coding and technology. I love exploring new tools
 <br />
 💬 **Ask me about:** Python, Automation, and Tech
 <br />
-📫 **Reach me at:** [gautham.nair.2005@outlook.com](mailto:gautham.nair.2005@gmail.com)
+📫 **Reach me at:** [gautham.nair.2005@gmail.com](mailto:gautham.nair.2005@gmail.com)
 
 </div>
 
