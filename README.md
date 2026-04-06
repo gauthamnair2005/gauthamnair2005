@@ -16,7 +16,7 @@ I'm a student passionate about coding and technology. I love exploring new tools
 
 🌱 **I’m currently learning:** Advanced Python & Data Structures
 <br />
-💬 **Ask me about:** Python, Automation, and Tech
+💬 **Ask me about:** Python, Automation, AI and Tech
 <br />
 📫 **Reach me at:** [gautham.nair.2005@gmail.com](mailto:gautham.nair.2005@gmail.com)
 
